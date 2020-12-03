@@ -1,0 +1,29 @@
+name: dartupify
+description: Design Patterns example app for DartUP 2020 conference
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  equatable: ^1.2.5
+  flutter_bloc: ^6.1.1
+  provider: ^4.3.2+2
+  stack: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  pedantic: ^1.9.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/data/
