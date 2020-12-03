@@ -1,16 +1,28 @@
-# dartupify
+# DartUPify - Design Patterns example app for DartUP 2020 conference
 
-A new Flutter project.
+This example app shows how different Design Patterns could be used together in order to create a single application.
 
-## Getting Started
+Design Patterns used in the app:
 
-This project is a starting point for a Flutter application.
+- Abstract Factory
+- Composite
+- Command
+- Memento
 
-A few resources to get you started if this is your first Flutter project:
+## Building
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+You can follow these instructions to build the app and install it onto your device.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+If you are new to Flutter, please first follow the [Flutter Setup](https://flutter.dev/setup/) guide.
+
+### Building and installing the Flutter Design Patterns app
+
+```
+git clone https://github.com/MangirdasKazlauskas/dartupify-dartup2020.git
+cd dartupify-dartup2020
+flutter run
+```
+
+The `flutter run` command both builds and installs the Flutter app to your device or emulator.
