@@ -13,9 +13,9 @@ Design Patterns used in the app:
 
 ## Presentation
 
-Presentation slides are provided [here](presentation-slides.pdf)
+Presentation slides are provided [here](presentation-slides.pdf).
 
-Talk video could be found here: TBD
+Talk video could be found here: TBD.
 
 ## Building
 
