@@ -1,5 +1,7 @@
 # DartUPify - Design Patterns example app for DartUP 2020 conference
 
+![Repository header](header.jpg)
+
 This example app shows how different Design Patterns could be used together in order to create a single application.
 
 Design Patterns used in the app:
@@ -8,6 +10,12 @@ Design Patterns used in the app:
 - Composite
 - Command
 - Memento
+
+## Presentation
+
+Presentation slides are provided [a here](presentation-slides.pdf)
+
+Talk video could be found here: TBD
 
 ## Building
 
