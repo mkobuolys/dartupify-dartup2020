@@ -28,7 +28,7 @@ If you are new to Flutter, please first follow the [Flutter Setup](https://flutt
 ### Building and installing the Flutter Design Patterns app
 
 ```
-git clone https://github.com/MangirdasKazlauskas/dartupify-dartup2020.git
+git clone https://github.com/mkobuolys/dartupify-dartup2020.git
 cd dartupify-dartup2020
 flutter run
 ```
